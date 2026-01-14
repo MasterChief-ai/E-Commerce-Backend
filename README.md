@@ -182,10 +182,10 @@ The system comes preloaded with 10 sample products:
 ## Group Members
 
 Add your group member names here:
-- Member 1: [Name] - [Student ID]
-- Member 2: [Name] - [Student ID]
-- Member 3: [Name] - [Student ID]
-- Member 4: [Name] - [Student ID]
+- [Name] - [Matric No]
+- [Name] - [Matric No]
+- [Name] - [Matric No]
+- [Name] - [Matric No]
 
 ## Future Enhancements
 

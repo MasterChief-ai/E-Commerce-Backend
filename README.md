@@ -157,27 +157,12 @@ The system comes preloaded with 10 sample products:
 
 ## Technical Stack
 
-- **Language**: Python 3.6+
+- **Language**: Python 3.13+
 - **Database**: SQLite3
 - **Dependencies**: 
   - tabulate (for formatted output)
 - **Architecture**: Modular design with separate modules for each feature
 
-## How to Submit
-
-1. Create a ZIP file containing:
-   - All `.py` files
-   - `requirements.txt`
-   - `README.md` (this file)
-   - `ecommerce.db` (database with sample data)
-
-2. Create a Word document including:
-   - Project overview (this README content)
-   - List of group members with student IDs
-   - Features implemented
-   - Technical details
-
-3. Submit to lecturer by **January 31st**
 
 ## Group Members
 
